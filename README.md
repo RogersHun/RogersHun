@@ -2,6 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogersHun)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
 
 ![snake gif](https://github.com/RogersHun/RogersHun/blob/output/github-contribution-grid-snake.svg)
