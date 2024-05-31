@@ -3,3 +3,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogersHun)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/RogersHun/RogersHun/blob/output/github-contribution-grid-snake.svg"/>
+
+<img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogersHun&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
