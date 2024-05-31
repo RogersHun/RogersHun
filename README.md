@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&pause=1000&color=3945DF&center=true&multiline=true&random=false&width=435&lines=Welcome+to+RogersHun's+Github!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&size=40&pause=1000&color=3945DF&center=true&multiline=true&random=false&width=435&height=45&lines=Welcome+to+RogersHun's+Github!" alt="Typing SVG">
+  </a>
+</p>
+
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogersHun)](https://github.com/anuraghazra/github-readme-stats)-->
