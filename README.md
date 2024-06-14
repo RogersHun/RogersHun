@@ -13,9 +13,15 @@
   </a>
 </p>
 
-![ML](https://img.shields.io/badge/Make-6D00CC.svg?&style=for-the-badge&logo=ML&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<p align="center">
+  <a href = "https://img.shields.io">
+    <img src = "https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
+  </a>
+</p>
 
+<!--
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+-->
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
