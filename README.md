@@ -7,6 +7,8 @@
 </p>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&pause=1000&random=false&width=435&lines=%08Thx+for+visiting!)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRogersHun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello!&edge_flat=false" alt="Hits">
