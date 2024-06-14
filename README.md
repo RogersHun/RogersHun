@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<div style="text-align:center;">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=E2E1F8&background=735FFF00&random=false&width=435&lines=Thx+for+Stopping+by+RogersHun's+GitHub!)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRogersHun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello!&edge_flat=false" alt="Hits">
+  </a>
+</p>
+
 
 
 
