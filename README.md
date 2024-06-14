@@ -15,6 +15,9 @@
 
 <p align="center">
   <a href="https://img.shields.io">
+    <img src="https://img.shields.io/badge/ML\wDL.svg?&style=for-the-badge&logo=MEGA&logoColor=white">
+  </a>
+  <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/NLP-6D00CC.svg?&style=for-the-badge&logo=Make&logoColor=white">
   </a>
   <a href="https://img.shields.io">
