@@ -23,7 +23,12 @@
 
 <img src="https://github.com/RogersHun/RogersHun/blob/output/github-contribution-grid-snake.svg"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nhkim097)](https://solved.ac/nhkim097/)
+
+<p align="center">
+  <a href="https://solved.ac/nhkim097/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhkim097" alt="Solved.ac Profile">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
