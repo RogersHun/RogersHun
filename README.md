@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/AI-6D00CC.svg?&style=for-the-badge&logo=MEGA&logoColor=blue">
+    <img src="https://img.shields.io/badge/AI-14233C.svg?&style=for-the-badge&logo=Monzo&logoColor=white">
   </a>
   <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/NLP-6D00CC.svg?&style=for-the-badge&logo=Make&logoColor=white">
