@@ -45,12 +45,18 @@
 <!--snake-->
 <img src="https://github.com/RogersHun/RogersHun/blob/output/github-contribution-grid-snake.svg"/>
 
+
+
 <!--Solved.ac-->
 <p align="center">
   <a href="https://solved.ac/nhkim097/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhkim097" alt="Solved.ac Profile">
   </a>
 </p>
+
+ <a href="link">title</a>
+ [title]([link](https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md))
+
 
 <!--footer-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
