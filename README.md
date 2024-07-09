@@ -54,8 +54,7 @@
   </a>
 </p>
 
-<a href="link">Upload</a>
-[title](https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md)
+[Upload!](https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md)
 
 
 <!--footer-->
