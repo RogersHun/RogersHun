@@ -56,7 +56,7 @@
 
 
 
-<!--Upload-->
+<!--Today's Upload-->
 <p align = "center">
   <a href = "https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md">
     <button>Today's Upload!</button>
