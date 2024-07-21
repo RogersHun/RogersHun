@@ -53,7 +53,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhkim097" alt="Solved.ac Profile">
   </a>
 </p>
-https://rogershun.github.io/posts/Word_Embedding-copy/
+
 
 <p align = "center">
   <a href = "https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md">
