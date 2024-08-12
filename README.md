@@ -56,7 +56,7 @@
 
 <!-- Today's Upload -->
 <p align = "center">
-  <a href = "[https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md](https://rogershun.github.io/posts/dd-copy-5/)">
+  <a href = "[https://github.com/RogersHun/RogersHun.github.io/blob/main/_posts/2024-07-01-1dCNN.md](https://rogershun.github.io/posts/dd-copy-5/)]">
     <button>Today's Upload!</button>
   </a>
 </p>
