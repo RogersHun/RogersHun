@@ -57,7 +57,7 @@
 <!-- Today's Upload -->
 <p align = "center">
   <a href = https://rogershun.github.io/posts/dd/>
-    <button>Today's Upload!</button>
+    <button>🎹Today's Upload!</button>
   </a>
 </p>
 <p align = "center">➡️ 업로드 내용 : Debug of ruby and github Action error</p>
