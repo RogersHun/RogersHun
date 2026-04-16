@@ -1,66 +1,49 @@
-<!--main-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-
-<!--Intro main-->
-<p align = "center">
-  <a href = "https://readme-typing-svg.demolab.com">
-    <img src = "https://readme-typing-svg.demolab.com?font=Tiny5&size=25&pause=1000&color=E2E1F8&background=735FFF00&random=false&width=435&lines=Thx+for+Stopping+by+RogersHun's+GitHub!)(https://git.io/typing-svg)">
-  </a>
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
-<!--H6its-->
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRogersHun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello!&edge_flat=false" alt="Hits">
-  </a>
+## 🎯 Research Interests
+<p align="left">
+  <img src="https://img.shields.io/badge/Recommender%20System-FF4B4B?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-000000?style=for-the-badge&logo=graph-dot-com&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM-6D00CC?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-4B32C3?style=for-the-badge&logo=probot&logoColor=white">
 </p>
 
-<!--s-->
-<p align="center">
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/AI-14233C.svg?&style=for-the-badge&logo=Monzo&logoColor=white">
-  </a>
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/Recommender System-DD4B39.svg?&style=for-the-badge&logo=Reason&logoColor=white">
-  </a>
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/NLP-6D00CC.svg?&style=for-the-badge&logo=Make&logoColor=white">
-  </a>
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
-  </a>
-</p>
+---
 
-<!--github stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogersHun&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogersHun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RogersHun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+## 🎓 Education
+* **2024.03 - 2026.02** | **경희대학교 일반대학원** 빅데이터응용학 (석사)
+* **2018.03 - 2024.02** | **한국공학대학교** IT경영학(주전공), 스마트팩토리(복수전공)
 
-<!--snake-->
-<img src="https://github.com/RogersHun/RogersHun/blob/output/github-contribution-grid-snake.svg"/>
+## 📖 Paper
+* [**Enhancing Review-Based Recommendations Through Local and Global Feature Fusion**](https://www.mdpi.com/2079-9292/14/13/2540) | *MDPI Electronics*, 2025. (Citation 4th)
+* **LLM-Based Profile Refinement and Vector Quantization for Multimodal Recommender Systems** | *Under Review*
+* **Leveraging Graph Path Evidence for Explainable Recommender Systems** | *Under Review*
 
-<!--logo-->
+## 🏫 Conference
+* **A LLM Based Profile Quantization Framework for Multimodal Recommendation** | 2025.11, 한국경영과학회 추계학술대회
+* **그래프 경로 정보를 활용한 LLM 기반 순위화 향상과 설명 가능한 추천 시스템** | 2025.11, 한국경영과학회 추계학술대회
+* **A Trustworthy AI-driven Personalized Hybrid Model Integrating Multi-level Representation** | 2024.11, 한국지능정보시스템학회 추계학술대회
 
-<!--Solved.ac-->
-<p align="center">
-  <a href="https://solved.ac/nhkim097/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nhkim097" alt="Solved.ac Profile">
-  </a>
-</p>
+## ⚙️ Experience
+* **Hanium ICT Mentoring** | 2023.04 - 2023.12
+  * *Project 1:* 오픈 소스를 활용한 한국형 AutoML 서비스 개발 [code link] (-)
+  * *Project 2:* 개정된 데이터 3법 기반 정보 보안 솔루션 개발 [code link] (-)
+* **AI Manufacturing Process (K-digital)** | 2022.09 - 2023.02 
+  * 풀스택 AI 개발 역량 강화 교육 및 제조 AI 프로젝트 (820시간) [code link] (-)
+* **Comento Job Boot Camp** | 2022.05 - 2022.05
+  * AI 실무 프로젝트 및 데이터 분석 과정 수료 [code link] (-)
 
-<!-- Today's Upload -->
-<p align = "center">
-  <a href = https://rogershun.github.io/posts/Debug_Python/>
-    <button>🎹Today's Upload!</button>
-  </a>
-</p>
-<p align = "center">➡️ 업로드 내용 : Python_Debug</p>
+## 🗣️ Language Proficiency
+* **English** | TOEIC Speaking **Advanced Low (AL)**
 
-<!--footer-->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+## 🎹 Contact & Link
+* **Blog** | [RogersHun's Tech Blog](https://rogershun.github.io/)
+* **Email** | [skagns0019@gmail.com]
+* **LinkedIn** | [-]
+
+---
