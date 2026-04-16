@@ -43,7 +43,7 @@
 
 ## 🎹 Contact & Link
 * **Blog** | [RogersHun's Tech Blog](https://rogershun.github.io/)
-* **Email** | [skagns0019@gmail.com]
+* **Email** | skagns0019@gmail.com
 * **LinkedIn** | [-]
 
 ---
