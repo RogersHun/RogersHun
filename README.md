@@ -31,12 +31,12 @@
 
 ## ⚙️ Experience
 * **Hanium ICT Mentoring** | 2023.04 - 2023.12
-  * *Project 1:* 오픈 소스를 활용한 한국형 AutoML 서비스 개발 [code link] (-)
-  * *Project 2:* 개정된 데이터 3법 기반 정보 보안 솔루션 개발 [code link] (-)
+  * *Project 1:* 오픈 소스를 활용한 한국형 AutoML 서비스 개발 [[code link](https://github.com/RogersHun/-AutoML-)]
+  * *Project 2:* 개정된 데이터 3법 기반 정보 보안 솔루션 개발 [[code link](https://github.com/Gasoling)]
 * **AI Manufacturing Process (K-digital)** | 2022.09 - 2023.02 
-  * 풀스택 AI 개발 역량 강화 교육 및 제조 AI 프로젝트 (820시간) [code link] (-)
+  * 풀스택 AI 개발 역량 강화 교육 및 제조 AI 프로젝트 (820시간) [[code link](https://github.com/RogersHun/DataAnalysis)]
 * **Comento Job Boot Camp** | 2022.05 - 2022.05
-  * AI 실무 프로젝트 및 데이터 분석 과정 수료 [code link] (-)
+  * 현업 개발자와 함께하는 파이썬 기반 실무 프로젝트 과정 [[code link](https://github.com/RogersHun/django_lec)]
 
 ## 🗣️ Language Proficiency
 * **English** | TOEIC Speaking **Advanced Low (AL)**
