@@ -20,7 +20,7 @@
 * **2018.03 - 2024.02** | **한국공학대학교** IT경영학(주전공), 스마트팩토리(복수전공)
 
 ## 📖 Paper
-* [**Enhancing Review-Based Recommendations Through Local and Global Feature Fusion**](https://www.mdpi.com/2079-9292/14/13/2540) | *MDPI Electronics*, 2025. (Citation 4th)
+* **Enhancing Review-Based Recommendations Through Local and Global Feature Fusion** | *MDPI Electronics*, 2025. (Citation 4th) [[Paper Link](https://www.mdpi.com/2079-9292/14/13/2540)] [[Code Link](https://github.com/RogersHun/LGFR)]
 * **LLM-Based Profile Refinement and Vector Quantization for Multimodal Recommender Systems** | *Under Review*
 * **Leveraging Graph Path Evidence for Explainable Recommender Systems** | *Under Review*
 
@@ -31,12 +31,12 @@
 
 ## ⚙️ Experience
 * **Hanium ICT Mentoring** | 2023.04 - 2023.12
-  * *Project 1:* 오픈 소스를 활용한 한국형 AutoML 서비스 개발 [[code link](https://github.com/RogersHun/-AutoML-)]
-  * *Project 2:* 개정된 데이터 3법 기반 정보 보안 솔루션 개발 [[code link](https://github.com/Gasoling)]
+  * *Project 1:* 오픈 소스를 활용한 한국형 AutoML 서비스 개발 [[Code Link](https://github.com/RogersHun/-AutoML-)]
+  * *Project 2:* 개정된 데이터 3법 기반 정보 보안 솔루션 개발 [[Code Link](https://github.com/Gasoling)]
 * **AI Manufacturing Process (K-digital)** | 2022.09 - 2023.02 
-  * 풀스택 AI 개발 역량 강화 교육 및 제조 AI 프로젝트 (820시간) [[code link](https://github.com/RogersHun/DataAnalysis)]
+  * 풀스택 AI 개발 역량 강화 교육 및 제조 AI 프로젝트 (820시간) [[Code Link](https://github.com/RogersHun/DataAnalysis)]
 * **Comento Job Boot Camp** | 2022.05 - 2022.05
-  * 현업 개발자와 함께하는 파이썬 기반 실무 프로젝트 과정 [[code link](https://github.com/RogersHun/django_lec)]
+  * 현업 개발자와 함께하는 파이썬 기반 실무 프로젝트 과정 [[Code Link](https://github.com/RogersHun/django_lec)]
 
 ## 🗣️ Language Proficiency
 * **English** | TOEIC Speaking **Advanced Low (AL)**
