@@ -17,7 +17,7 @@
 
 ## 🎓 Education
 * **2024.03 - 2026.02** | **경희대학교 일반대학원** 빅데이터응용학
-* **2018.03 - 2024.02** | **한국공학대학교** IT경영학(주전공), 스마트팩토리(복수전공)
+* **2018.03 - 2024.02** | **한국공학대학교**(前 한국산업기술대학교) IT경영학(주전공), 스마트팩토리(복수전공)
 
 ## 📖 Paper
 * **Enhancing Review-Based Recommendations Through Local and Global Feature Fusion** | *MDPI Electronics*, 2025. (Citation 4th) [[Paper Link](https://www.mdpi.com/2079-9292/14/13/2540)] [[Code Link](https://github.com/RogersHun/LGFR)]
