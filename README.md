@@ -20,8 +20,8 @@
 * **2018.03 - 2024.02** | **한국공학대학교**(前 한국산업기술대학교) IT경영학(주전공), 스마트팩토리(복수전공)
 
 ## 📖 Paper
-* **Enhancing Review-Based Recommendations Through Local and Global Feature Fusion** | *MDPI Electronics*, 2025. (Citation 6th) [[Paper Link](https://www.mdpi.com/2079-9292/14/13/2540)] [[Code Link](https://github.com/RogersHun/LGFR)]
 * **Leveraging Graph Path Evidence for Explainable Recommender Systems** | *Knowledge Based Systems*, 2026. [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950705126009627?casa_token=UAdDWumYQMUAAAAA:nw6-phKnY1YADGLVqoMvIrHB1l8AZolg5fiWm_ZYyXzckVm0aS71gPDCuWMdEx8SdgzVlehw7usm)]
+* **Enhancing Review-Based Recommendations Through Local and Global Feature Fusion** | *MDPI Electronics*, 2025. (Citation 6th) [[Paper Link](https://www.mdpi.com/2079-9292/14/13/2540)] [[Code Link](https://github.com/RogersHun/LGFR)]
 * **LLM-Based Profile Refinement and Vector Quantization for Multimodal Recommender Systems** | *Under Review*
 
 
