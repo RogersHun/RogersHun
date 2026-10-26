@@ -2,7 +2,7 @@
 
 ![Recommender Systems](https://img.shields.io/badge/🎯_Recommender_Systems-FF4B4B?style=for-the-badge)
 
-**Quantizaion · Knowledge Graph · LLM · Transformers · Multimodal · Reranking**
+**Quantizaion · Knowledge Graph · LLM · Transformers · Multimodal · Reranking · LoRA,QLoRA**
 
 ![LLM Evaluation](https://img.shields.io/badge/🧪_LLM_Evaluation-7B2CBF?style=for-the-badge)
 
