@@ -2,7 +2,7 @@
 
 ![Recommender Systems](https://img.shields.io/badge/🎯_Recommender_Systems-FF4B4B?style=for-the-badge)
 
-**Quantizaion · Knowledge Graph · LLM · Transformers · Multimodal · Reranking · LoRA,QLoRA**
+**Quantizaion · Knowledge Graph · LLM · Transformers · Multimodal**
 
 ![LLM Evaluation](https://img.shields.io/badge/🧪_LLM_Evaluation-7B2CBF?style=for-the-badge)
 
@@ -10,11 +10,11 @@
 
 ![Model Compression & Inference Optimization](https://img.shields.io/badge/⚡_Model_Compression_%26_Inference_Optimization-0078D4?style=for-the-badge)
 
-**Prunning · Knowledge distillation · torch.compile · FX Graph Rewriting · Auto-Tunning**
+**LoRA,QLoRA · Prunning · Knowledge distillation · torch.compile · FX Graph Rewriting · Auto-Tunning**
 
 ![RAG & Agentic AI](https://img.shields.io/badge/🤖_RAG_%26_Agentic_AI-E76F00?style=for-the-badge)
 
-**LangGraph · Multi-Agent Orchestration · Hybrid Search(Dense + BM25) · LlamaIndex · Document Parsing & OCR**
+**LangGraph · Reranking · Multi-Agent Orchestration · Hybrid Search(Dense + BM25) · LlamaIndex · Document Parsing & OCR**
 
 ![Engineering & Tools](https://img.shields.io/badge/🛠️_Engineering_%26_Tools-455A64?style=for-the-badge)
 
