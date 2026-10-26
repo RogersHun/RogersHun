@@ -30,7 +30,7 @@
 ## 📖 Major Paper
 * **Leveraging Graph Path Evidence for Explainable Recommender Systems** | *Knowledge-Based Systems(Elsevier)*, 2026. [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950705126009627?casa_token=UAdDWumYQMUAAAAA:nw6-phKnY1YADGLVqoMvIrHB1l8AZolg5fiWm_ZYyXzckVm0aS71gPDCuWMdEx8SdgzVlehw7usm)]
 * **Enhancing Review-Based Recommendations Through Local and Global Feature Fusion** | *MDPI Electronics*, 2025. (Citation 6th) [[Paper Link](https://www.mdpi.com/2079-9292/14/13/2540)] [[Code Link](https://github.com/RogersHun/LGFR)]
-* **LLM-Based Profile Refinement and Vector Quantization for Multimodal Recommender Systems** | *Knowledge-Based Systems(Elsevier), Under Revision*
+* **Effixient Multimodal Recommender Systems via Generative Profile Refinement and Residual Quantization** | *Knowledge-Based Systems(Elsevier), Under Revision*
 
 
 ## 🏫 Conference
